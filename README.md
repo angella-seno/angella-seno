@@ -101,7 +101,7 @@ published, so these show the engineering patterns behind them instead.
 
 | Repo | What it is |
 |---|---|
-| [bi-reconciliation-engine](https://github.com/YOUR-HANDLE/bi-reconciliation-engine) | Config-driven reconciliation between a source export and a BI export, with per-measure tolerances and an HTML verdict report |
+| [bi-reconciliation-engine](https://github.com/angella-seno/bi-reconciliation-engine) | Config-driven reconciliation between a source export and a BI export, with per-measure tolerances and an HTML verdict report |
 
 More coming: a documented semantic model as code, a DAX pattern library, and a
 reusable Power Query M function set.
