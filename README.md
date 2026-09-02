@@ -25,17 +25,20 @@ United States, commercial real estate, Power BI on Databricks
 | Leasing Leaderboard | Which agents are performing, ranked, published to the company intranet |
 | Leasing Activity Overview | Executed and signed deal metrics by agent and property |
 | In Negotiation, Estimated Execution | Which deals are close, and which have no execution date |
+| DM Stage History | How deals move through Deal Manager stages, and where they stall |
 | Current Lease Expirations | What rolls off in the next 12 months, by SF and by count |
 | Availability Overview | Vacant area by property, unit type, and leasing manager |
 | Top Tenants Overview | Portfolio exposure by tenant corporate credit |
+| Lease Provisions | Clause-level lease terms: co-tenancy, termination, ROFO, and options |
+| Exclusive and Restricted Uses | Which uses are barred at a property before a new deal is signed (paginated report) |
 
 ### Capital and construction cost
 United States, Power BI on Databricks
 
 | Dashboard | What it answers |
 |---|---|
-| Job Cost Summary | Budget versus billed across job types, with variance and % utilized |
-| Job Summary | All CapEx jobs by fund, property, and status |
+| Job Cost Summary - Tenant | Budget versus billed across job types, with variance and % utilized |
+| Job Cost Summary - CapEx | All CapEx jobs by fund, property, and status |
 | Construction Manager Details | Cost category, transaction, and line-item drill-down |
 
 ### Finance and project performance
